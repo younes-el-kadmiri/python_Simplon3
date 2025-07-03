@@ -1,4 +1,4 @@
-Ch1 = "Le langage Python est très populaire"
+Ch1 = "Le langage Python est tres populaire"
 Ch2 = "Python est un langage puissant"
 
 set1 = set(Ch1.lower().split())
